@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MarkyForum/static/css/main.3fb72861.css",
+    "main.js": "/MarkyForum/static/js/main.93ca53f1.js",
+    "index.html": "/MarkyForum/index.html",
+    "main.3fb72861.css.map": "/MarkyForum/static/css/main.3fb72861.css.map",
+    "main.93ca53f1.js.map": "/MarkyForum/static/js/main.93ca53f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fb72861.css",
+    "static/js/main.93ca53f1.js"
+  ]
+}
